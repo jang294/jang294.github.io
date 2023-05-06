@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "개발 일지"
-  avatar           : "C:/Users/jeong/OneDrive/바탕 화면/image/toothless.jpg"
-  bio              : ""
+  name             : "정은이의"
+  avatar           : "/assets/images/toothless.jpg"
+  bio              : "개발 일지"
   location         : "Republic of Korea"
   email            :
   links:
