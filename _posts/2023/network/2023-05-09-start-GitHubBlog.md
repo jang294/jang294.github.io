@@ -9,7 +9,7 @@ related: true
 categories: GitHub
 toc: true
 toc_sticky: true
-toc_label: "목차"
+
 data: 2023-05-09
 last_modified_at: 2023-05-09
 ---
