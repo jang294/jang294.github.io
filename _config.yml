@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "정은이의"
-  avatar           : "/assets/images/toothless.jpg"
-  bio              : "개발 일지"
+  name             : "정은이의 개발일지"
+  avatar           : ""
+  bio              : "UP IN THE AIR"
   location         : "Republic of Korea"
   email            :
   links:
