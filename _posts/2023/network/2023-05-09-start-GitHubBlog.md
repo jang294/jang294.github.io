@@ -7,8 +7,6 @@ comments: true
 share: true
 related: true
 categories: GitHub
-toc: true
-toc_sticky: true
 
 data: 2023-05-09
 last_modified_at: 2023-05-09
